@@ -1,2 +1,2 @@
 # YahooMusic-Recommendation-System
-A music recommendion system for the Yahoo music data set. 
+https://github.com/barbeque-sauce/YahooMusic-Recommendation-System/blob/master/yahoo.png
