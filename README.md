@@ -19,7 +19,7 @@ Kaggle Competition: https://www.kaggle.com/c/ee627A-Spring2019/leaderboard
 ## Usage
 All outputs are of the form:
 
-![Alt Text](https://github.com/barbeque-sauce/YahooMusic-Recommendation-System/blob/master/prediction.png)
+![Alt Text](https://github.com/barbeque-sauce/YahooMusic-Recommendation-System/blob/master/preds.png)
 
 
 ### Download the project
@@ -36,7 +36,7 @@ All outputs are of the form:
   
 #### For Matrix Factorization
   * Open a Jupyter Notebook and open Program 4 in 'Code'.
-  * Run it, providing the paths to 'trainItem2.txt' and 'testItem.txt'; which are in the 'Data' folder.
+  * Run it, moving'trainItem2.txt' and 'testItem.txt'from the 'Data' folder to the Jupyter notebook directory.
   * The program will output the recommendations in a txt file.
 
 #### For Ensemble(Merging all the predictions to get a new one) 
