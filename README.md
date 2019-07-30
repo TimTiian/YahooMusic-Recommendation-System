@@ -35,6 +35,7 @@ All outputs are of the form:
 * The output of Program 3 is the list of recommended/not recommended tracks.
   
 #### For Matrix Factorization
+  * Make sure Spark is installed.
   * Open a Jupyter Notebook and open Program 4 in 'Code'.
   * Run it, moving 'trainItem2.txt' and 'testItem.txt'from the 'Data' folder to the Jupyter notebook directory.
   * The program will output the recommendations in a txt file.
