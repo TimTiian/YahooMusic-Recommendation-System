@@ -17,13 +17,14 @@ TRAIN_FILE = "trainItem2.txt"
 
 user_rate = {}
 start_time = time.time()
-with open(TRAIN_FILE) as train:                                  
+with open(TRAIN_FILE) as train:
     for line in train:
         if "|" in line:
-            cur_user = line.strip("\n").split("|")[0]             
+            cur_user = line.strip("\n").split("|")[0]
+            user_rate[cur_user]={}
             continue
-        item_id,item_score=line.strip("\n").split()               
-        user_rate[cur_user][item_id]=item_score                   
+        item_id,item_score=line.strip("\n").split()
+        user_rate[cur_user][item_id]=item_score                  
 
 with open(OUTPUT_FILE, "w") as output:
     with open(H_FILE) as record:                                  
