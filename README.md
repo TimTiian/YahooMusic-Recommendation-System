@@ -13,7 +13,8 @@
 
 ## Usage
 All outputs are of the form:
-![Alt Text](https://github.com/barbeque-sauce/YahooMusic-Recommendation-System/blob/master/pred.png)
+
+![Alt Text](https://github.com/barbeque-sauce/YahooMusic-Recommendation-System/blob/master/prediction.png)
 
 
 ### Download the project
