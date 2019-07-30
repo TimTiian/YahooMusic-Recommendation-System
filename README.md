@@ -1,4 +1,8 @@
 # YahooMusic-Recommendation-System
+I am proud to present my Recommendation System project which aehieved 2nd place in the Kaggle competition:
+https://www.kaggle.com/c/ee627A-Spring2019/leaderboard (Team HRM)
+
+# Overview
 ![Alt Text](https://github.com/barbeque-sauce/YahooMusic-Recommendation-System/blob/master/yahoo.png)
 
 ## The Data
