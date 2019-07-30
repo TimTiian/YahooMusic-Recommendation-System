@@ -36,7 +36,7 @@ All outputs are of the form:
   
 #### For Matrix Factorization
   * Open a Jupyter Notebook and open Program 4 in 'Code'.
-  * Run it, moving'trainItem2.txt' and 'testItem.txt'from the 'Data' folder to the Jupyter notebook directory.
+  * Run it, moving 'trainItem2.txt' and 'testItem.txt'from the 'Data' folder to the Jupyter notebook directory.
   * The program will output the recommendations in a txt file.
 
 #### For Ensemble(Merging all the predictions to get a new one) 
