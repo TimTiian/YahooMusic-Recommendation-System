@@ -1,5 +1,5 @@
 # YahooMusic-Recommendation-System
-I am proud to present my Recommendation System project which aehieved 2nd place in the Kaggle competition:
+I am proud to present my Recommendation System project which achieved 2nd place in the Kaggle competition:
 https://www.kaggle.com/c/ee627A-Spring2019/leaderboard (Team HRM)
 
 # Overview
