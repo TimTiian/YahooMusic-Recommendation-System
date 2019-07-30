@@ -178,7 +178,7 @@ import numpy as np
 import itertools
 
 file_name_rating='output.txt'
-output_file='ensemble_predictions.txt'
+output_file='prediction_ensemble.txt'
 
 fRating=open(file_name_rating,'r')
 fOut=open(output_file,'w')
