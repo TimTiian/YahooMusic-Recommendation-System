@@ -22,10 +22,10 @@ All outputs are of the form:
 ![Alt Text](https://github.com/barbeque-sauce/YahooMusic-Recommendation-System/blob/master/preds.png)
 
 
-### Download the project
+### Download the Repository
 * Create a new folder, cd to it and run the command:
 git clone https://github.com/barbeque-sauce/YahooMusic-Recommendation-System.git
-* Alternatively, the project can be downloaded on your browser. 
+* Alternatively, the repository can be downloaded on your browser. 
  
 ### Run the code 
 
