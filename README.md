@@ -24,8 +24,8 @@ All outputs are of the form:
 
 ### Download the project
 * Create a new folder, cd to it and run the command:
-* git clone https://github.com/barbeque-sauce/YahooMusic-Recommendation-System.git
- 
+git clone https://github.com/barbeque-sauce/YahooMusic-Recommendation-System.git
+* Alternatively, the project can be downloaded on your browser. 
  
 ### Run the code 
 
