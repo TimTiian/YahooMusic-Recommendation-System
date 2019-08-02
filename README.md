@@ -17,10 +17,6 @@ Kaggle Competition: https://www.kaggle.com/c/ee627A-Spring2019/leaderboard
 * Each user has 6 tracks that are assigned in the dataset; which have to be recommended/ not recommended to that user. 
 
 ## Usage
-All outputs are of the form:
-
-![Alt Text](https://github.com/barbeque-sauce/YahooMusic-Recommendation-System/blob/master/preds.png)
-
 
 ### Download the Repository
 * Create a new folder, cd to it and run the command:
